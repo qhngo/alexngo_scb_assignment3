@@ -8,10 +8,11 @@
 3. For a start, first, I create 4 copies of nbody_mod.py, which are
    nbody_1.py, nbody_2.py, nbody_3.py, and nbody_4.py, respectively.
    Then, I will follow suggestions given in the assignment's webpage, which are:
-    No.1 Reducing function call overhead (reflected in nbody_1.py)
-    No.2 Using alternatives to membership testing of lists (nbody_2.py)
-    No.3 Using local rather than global variables (nbody_3.py)
-    No.4 Using data aggregation to reduce loop overheads (nbody_4.py)
+    - No.1 Reducing function call overhead (reflected in nbody_1.py)
+    - No.2 Using alternatives to membership testing of lists (nbody_2.py)
+    - No.3 Using local rather than global variables (nbody_3.py)
+    - No.4 Using data aggregation to reduce loop overheads (nbody_4.py)
+   
    For each change made in the file, there will be some comment to explain the purpose or the difference.
    Then, I monitor execution time of each modified file. The result is recorded in Benchmark.xlsx
 
