@@ -23,7 +23,8 @@
     also do away with membership testing since it is taken care of by the order
     of pairs in the list.
 
-    Original code are commented out.
+    Original code are commented out. Individual changes in each step are further adjusted in
+    the final file.
     
     Relative Speedup = 94/26.2 = 3.58 times
 """
