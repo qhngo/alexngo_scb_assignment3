@@ -22,7 +22,7 @@
 
 6. To execute the source code, one can run each mentioned file on PyCharm Community Edition,
    or run on command-line interface using "python [filename].py"
-   (python.exe should be registered on system path though).
+   (python.exe should be registered in system path though).
 
    Output will look like this (last few lines):
     -0.1690074067381597
