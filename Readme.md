@@ -16,10 +16,10 @@
    For each change made in the file, there will be some comment to explain the purpose or the difference.
    Then, I monitor execution time of each modified file. The result is recorded in Benchmark.xlsx
 
-4. It is noted that items No.1 and No.4 made a significant impact on the performance.
+4. It is noted that **items No.1 and No.4 made a significant impact on the performance**.
 
 5. All changes will be combined and reflected in nbody_opt.py. Execution time of nbody_opt.py is also recorded.
-   Relative Speedup achieved = 94/26.2 = 3.58 times
+   **Relative Speedup achieved = 94/26.2 = 3.58 times**
 
 6. To execute the source code, one can run each mentioned file on PyCharm Community Edition,
    or run on command-line interface using "python [filename].py"
